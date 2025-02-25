@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\bin\Debug\EscapeLibrary.dll
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\bin\Debug\EscapeLibrary.pdb
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\obj\Debug\EscapeLibrary.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\obj\Debug\EscapeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\obj\Debug\EscapeLibrary.dll
+C:\Users\PC\Desktop\V3-master\EscapeLibrary\obj\Debug\EscapeLibrary.pdb
